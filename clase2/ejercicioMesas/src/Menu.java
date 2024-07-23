@@ -1,8 +1,5 @@
-public abstract class Menu {
-    
-    private double precioBase;
-
-    public abstract String procesoPreparMenu();
-    public abstract String calculodelPrecio();
+abstract class Menu {
+    // Métodos abstractos que deben ser implementados por las subclases
+    protected abstract void armarMenu();
+    protected abstract double calcularPrecio();
 }
-
