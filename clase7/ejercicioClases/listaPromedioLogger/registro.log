@@ -1,0 +1,34 @@
+[2024-08-05 15:43:59] [ INFO ] [App:15] instancia creada
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ INFO ] [App:21] elemento agregado
+[2024-08-05 15:43:59] [ WARN ] [App:23] La lista tiene más de 5
+[2024-08-05 16:36:06] [ INFO ] [App:15] instancia creada
+[2024-08-05 16:36:06] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:06] [ INFO ] [App:42] El promedio de la lista es: 2.5
+[2024-08-05 16:36:20] [ INFO ] [App:15] instancia creada
+[2024-08-05 16:36:20] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:20] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:20] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:20] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:20] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:20] [ INFO ] [App:42] El promedio de la lista es: 4.5
+[2024-08-05 16:36:30] [ INFO ] [App:15] instancia creada
+[2024-08-05 16:36:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:36:30] [ WARN ] [App:23] La lista tiene más de 10 elementos
+[2024-08-05 16:36:30] [ INFO ] [App:42] El promedio de la lista es: 5.0
+[2024-08-05 16:39:30] [ INFO ] [App:15] instancia creada
+[2024-08-05 16:39:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:39:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:39:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:39:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:39:30] [ WARN ] [App:26] La lista tiene más de 5 elementos
+[2024-08-05 16:39:30] [ WARN ] [App:23] La lista tiene más de 10 elementos
+[2024-08-05 16:39:30] [ INFO ] [App:42] El promedio de la lista es: 5.0
