@@ -1,0 +1,2 @@
+[2024-08-05 18:31:52] [ ERROR] [Animal:61] A file path that is implicitly relative to the current working directory is not allowed in the database URL "jdbc:h2:mem~/tablaAnimales". Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-230]
+[2024-08-05 18:34:32] [ INFO ] [Animal:20] conexion establecida
