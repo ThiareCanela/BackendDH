@@ -1,0 +1,26 @@
+[2024-08-05 23:52:35] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-05 23:52:35] [ INFO ] [MedicamentoDAOH2:35] datos cargados con exito
+[2024-08-05 23:52:35] [ ERROR] [MedicamentoDAOH2:71] Columna "CODIGONUMERICO" no encontrada
+Column "CODIGONUMERICO" not found [42122-230]
+[2024-08-06 00:08:49] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:08:49] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:08:49] [ ERROR] [MedicamentoDAOH2:72] Columna "CODIGONUMERICO" no encontrada
+Column "CODIGONUMERICO" not found [42122-230]
+[2024-08-06 00:09:30] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:09:30] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:09:30] [ ERROR] [MedicamentoDAOH2:72] Columna "CODIGONUMERICO" no encontrada
+Column "CODIGONUMERICO" not found [42122-230]
+[2024-08-06 00:14:24] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:14:24] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:14:24] [ ERROR] [MedicamentoDAOH2:72] Columna "CODIGONUMERICO" no encontrada
+Column "CODIGONUMERICO" not found [42122-230]
+[2024-08-06 00:18:57] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:18:57] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:18:57] [ ERROR] [MedicamentoDAOH2:72] Columna "CODIGONUMERICO" no encontrada
+Column "CODIGONUMERICO" not found [42122-230]
+[2024-08-06 00:23:25] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:23:25] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:23:25] [ INFO ] [MedicamentoDAOH2:66] Medicamento encontrado: Model.Medicamento@5dd6264
+[2024-08-06 00:29:07] [ INFO ] [BD:27] tabla creada con exito
+[2024-08-06 00:29:07] [ INFO ] [MedicamentoDAOH2:36] datos cargados con exito
+[2024-08-06 00:29:07] [ INFO ] [MedicamentoDAOH2:66] Medicamento encontrado: Medicamento{id=1, nombre='ibuprofeno', codigoNumerico=11111, laboratorio='bayer', precio=10.0, cantidad=100}
