@@ -1,0 +1,25 @@
+[2024-08-05 21:56:54] [ INFO ] [Odontologo:23] tabla creada con exito
+[2024-08-05 21:56:54] [ INFO ] [Odontologo:31]  primera carga de datos cargados con exito
+[2024-08-05 21:56:54] [ ERROR] [Odontologo:42] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+UPDATE CUENTAS SET MATRICULA=? WHERE ID=? [90012-230]
+[2024-08-05 22:06:39] [ ERROR] [Odontologo:45] Tabla "CUENTAS" ya existe
+Table "CUENTAS" already exists; SQL statement:
+CREATE TABLE CUENTAS(ID INT PRIMARY KEY, APELLIDO VARCHAR(100) NOT NULL, NOMBRE VARCHAR(100) NOT NULL, MATRICULA VARCHAR(100) NOT NULL) [42101-230]
+[2024-08-05 22:07:20] [ ERROR] [Odontologo:45] Tabla "CUENTAS" ya existe
+Table "CUENTAS" already exists; SQL statement:
+CREATE TABLE CUENTAS(ID INT PRIMARY KEY, APELLIDO VARCHAR(100) NOT NULL, NOMBRE VARCHAR(100) NOT NULL, MATRICULA VARCHAR(100) NOT NULL) [42101-230]
+[2024-08-05 22:07:36] [ INFO ] [Odontologo:23] tabla creada con exito
+[2024-08-05 22:07:36] [ INFO ] [Odontologo:31]  primera carga de datos cargados con exito
+[2024-08-05 22:07:36] [ ERROR] [Odontologo:45] Parametro "#2" no está fijado
+Parameter "#2" is not set; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=? WHERE ID=? [90012-230]
+[2024-08-05 22:09:50] [ INFO ] [Odontologo:23] tabla creada con exito
+[2024-08-05 22:09:50] [ INFO ] [Odontologo:31]  primera carga de datos cargados con exito
+[2024-08-05 22:09:50] [ INFO ] [Odontologo:41]  MODIFICACIÓN MATRICULA exito
+[2024-08-05 22:15:20] [ INFO ] [Odontologo:23] tabla creada con exito
+[2024-08-05 22:15:20] [ INFO ] [Odontologo:31]  primera carga de datos cargados con exito
+[2024-08-05 22:15:20] [ INFO ] [Odontologo:42]  MODIFICACIÓN MATRICULA exito
+[2024-08-05 22:17:03] [ INFO ] [Odontologo:24] tabla creada con exito
+[2024-08-05 22:17:03] [ INFO ] [Odontologo:33]  primera carga de datos cargados con exito
+[2024-08-05 22:17:03] [ INFO ] [Odontologo:40]  MODIFICACIÓN MATRICULA exito
